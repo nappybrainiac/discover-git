@@ -1,3 +1,8 @@
+
+HELLO GOOD BYE STEVIE
+
+
+
 A FIRST DAY AT HOLBERTON SCHOOL
 Steven Garcia Was here!!
 and it was fun 
@@ -165,5 +170,5 @@ Yes it was an awesome day. Losing hair over Git pull requests. :(
 
 
 >>>>>>> holbertonschoolstudents/master
-
+  wow
 holbertonschool.com in San Francisco
