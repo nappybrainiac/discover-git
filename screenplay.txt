@@ -132,7 +132,11 @@ FADE OUT, CURTAIN GOES DOWN.
 
 Finally, everyone shouted... "We had an awesome day.... Amazing days ahead..."
 
+<<<<<<< HEAD
 THE END(Almost...)
+=======
+(Almost)THE END
+>>>>>>> a5c872d28d50dbe5cadc257ab8424f8e974f3f5f
 
 Changed by William McCann right now.
 <<<<<<< HEAD
