@@ -1,5 +1,6 @@
 A FIRST DAY AT HOLBERTON SCHOOL
-HEAD
+
+DAY 0
 
 HEAD
 Written by: The Holberton School Students - January 2016 batch
@@ -128,3 +129,5 @@ Edited Feedback of Day0:Day was awesome and we all are much excited for the upco
 (Adding a decent end...)
 
 THE END
+
+Salve.
