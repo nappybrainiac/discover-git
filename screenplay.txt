@@ -156,6 +156,105 @@ Edited Feedback of Day0:Day was awesome and we all are much excited for the upco
 
 (Adding a decent end...)
 
+
+
+ACT I
+
+SCENE I
+
+The morning light filters through the windows at Holberton School. The class is empty
+computers are all turned off. The computers all come on at once and a sinister message
+flickers on the screens that reads, PULL REQUEST DENIED.
+
+
+
+STEVEN, on the otherside of the door, is happily opening it, ready to start another
+gruelling day. As soon as he opens the door, all the screens turn off. He dances to music
+playing through headphones.
+
+
+
+JOSQUIN: Goodmorning Steven!
+
+Steven wheels around a little surprised.
+
+STEVEN: Goodmorning! Did you rest well? Ready for the day?
+
+JOSQUIN: Yeah, yeah. Always exciting stuff happening at Holberton.
+
+
+SCENE II
+
+Holberton School is busier and students are milling about, talking to
+each other and others are working quietly at their chosen terminals.
+
+A crack of lightening bursts through the room and all the computers
+turn off leaving the students bewildered.
+
+
+
+ZEE: What was that?
+
+SIPHAN: I'm not sure.
+
+
+
+The murmuring of students is suddenly interrupted by the message that
+had displayed on the computers before, PULL REQUEST DENIED.
+
+
+
+TASNEEM: Is this a founder's joke?
+
+JOE: Do you really think that Sylvain would take time out of his day to play a prank on us?
+
+
+
+There are sounds of agreement and disagreement throughout the group.
+While they stand around talking, the doors to the room close and we
+hear a locking sound.
+
+
+
+ALEX: What does this mean? Do we have to do the first project again?
+
+DORA:  I don't think so... can anyone check on their phones? Anyone with the github mobile app?
+
+ELECTRA points to one of the screens again. The message has
+been replaced with a laughing head. The sound is sinister and
+bounces around the walls unnaturally.
+
+ZEE: (Quietly to GLORIA) We gotta go.
+
+GLORIA: You're sure this is not a challenge of some sort?
+
+ZEE: How about we find out later?
+
+
+
+GLORIA and ZEE rush towards the door and the rest of the
+group sees and follows along. ZEE tries the doors, but
+they are locked. 
+
+
+
+ZEE: (Trying to stay calm, but a wild look is in her eyes) The doors are locked guys.
+
+
+
+More murmuring ensues.
+
+
+MASON: Who locked the doors? Who was the last one out?
+
+
+The laughing head on the computer suddenly stops. Each
+computer screen turns around and prints the name of one
+student on the screen then scrawls a message beneath
+the name. YOU. Someone screams. The lights go out.
+
+END OF ACT II
+
 THE END
 
 Salve.
