@@ -3,7 +3,7 @@ This sould have been done 3 days ago. A million times doing this is going to mak
 
 
 A FIRST DAY AT HOLBERTON SCHOOL
-
+kjaslkdjfkdj
 DAY 0
 
 HEAD
@@ -75,13 +75,16 @@ DAVID:Do you like pizza?
 
 NAOMI:not really
 
+
 NAOMI
 
 Coffee needs to be a little stronger!
 
+
 DANIEL
 
 Are we ever, EVER done?
+
 
 GUS
 
@@ -135,3 +138,5 @@ Edited Feedback of Day0:Day was awesome and we all are much excited for the upco
 THE END
 
 Salve.
+
+Damian---
