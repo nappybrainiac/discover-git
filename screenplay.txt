@@ -1,22 +1,20 @@
+
+This sould have been done 3 days ago. A million times doing this is going to make my git game great!
+
+
 A FIRST DAY AT HOLBERTON SCHOOL
->>Steven Garcia Was here!!
+kjaslkdjfkdj
 DAY 0
-Bilal is here!!!!!
 
-or
-
-To GIT or Not to GIT; That is the Question.
-
-Written by:
-
-=======
+HEAD
+Written by: The Holberton School Students - January 2016 batch
 
 Written by
 
 The Holberton School Students - January 2016 batch
 
 Students:
-Damian Ali, Alexandro de Oliveira, Asaia Palacios, Augustin "Gus" Francis-Boeuf, Bennet Buchanan, Bilal Khan, Siphan Bou, Chandler Mayo, Daniel Alzugaray, Dora Korpar, Electra Chong, Gloria Bwandungi Mugarura, Ian Wagener, Jacob Ekanem, John Serrano, John Spence, Joe Greene, Josh Parkin, Josquin "Jo" Gaillard, Kris Bredemeier, Zee Adams, Marine Dejean, Mason Fish, Naomi Veroczi, William McCann, Praylin Dinamoni, Rick Harris, Rick Houser, Rona Chong, Sravanthi Sinha, Steven Garcia, Tasneem Farag
+Damian Ali, Alexandro de Oliveira, Asaia Palacios, Augustin "Gus" Francis-Boeuf, Bennet Buchanan, Bilal Khan, Siphan Bou, Chandler Mayo, Daniel Alzugaray, Dora Korpar, Electra Chong, Gloria Bwandungi Mugarur, Ian Wagener, Jacob Ekanem, John Serrano, John Spence, Joe Greene, Josh Parkin, Josquin "Jo" Gaillard, Kris Bredemeier, Zee Adams, Marine Dejean, Mason Fish, Naomi Veroczi, William McCann, Praylin Dinamoni, Rick Harris, Rick Houser, Rona Chong, Sravanthi Sinha, Steven Garcia, Tasneem Farag
 
 
 FADE IN:
@@ -24,7 +22,7 @@ FADE IN:
 
 INT. HOLBERTON SCHOOL ENTRANCE - DAY
 
-(DAVID walks into the school, and there are already groups of people talking together. JANE and HARRY, fresh off the Hogwarts Express, with Dobby the free elf in tow,  walk up to him.)
+(DAVID walks into the school, and there is a daybreaker marathon competition. Surprise! Who knew. JANE and HARRY, fresh off the Hogwarts Express, with Dobby the free elf in tow,  walk up to him.)
 
 DAVID smells bacon grilled cheese and realizes he is hungry.
 
@@ -77,13 +75,16 @@ DAVID:Do you like pizza?
 
 NAOMI:not really
 
+
 NAOMI
 
 Coffee needs to be a little stronger!
 
+
 DANIEL
 
 Are we ever, EVER done?
+
 
 GUS
 
@@ -119,16 +120,36 @@ FADE OUT, CURTAIN GOES DOWN.
 
 Finally, everyone shouted... "We had an awesome day.... Amazing days ahead..."
 
-THE END
+THE END(Almost...)
 
 Changed by William McCann right now.
+<<<<<<< HEAD
+=======
+Changed by tasneem farag :)
+>>>>>>> holbertonschoolstudents/master
 
 THIS IS A CHANGE BY BENNETT BUCHANAN, but now it is also a change by mason fish. "random text”. And now, this is yet another change by Bennett :). Thanks for the comment William, this is a great update to the play!
  Some twist to the story: JAMES a young app developer... Hacking away at some codework in the middle of the night, Coffee on one side of the very unkept desk and a mobile device on the other. 
 He was quite a scare with his beard hanging low and uncommbed hair pointing in all directions.
 
+<<<<<<< HEAD
 Zee Narrating now...
 
 His secret lay hidden in lines of code masquerading as a playlist of 90's top hits. 3:12pm and still no call.
 "Maybe They changed their minds.", muttered James. Who's They you're probably wondering. They are everywhere and everything. They are me and you, your neighbor, your mother, your priest, your doctor...They are everywhere. Who can I tell? Who can protect me? Who will believe me?
 "It doesn't matter anyways. I'm marked; and now it's just a matter of time before they activate the line." James finished with a hint of despair barely noticeable, but heavily palpable.  
+=======
+
+Edited Feedback of Day0:Day was awesome and we all are much excited for the upcoming days.
+
+(Adding a decent end...)
+
+THE END
+
+Salve.
+
+Yes it was an awesome day. Losing hair over Git pull requests. :(  
+
+Damian---
+
+>>>>>>> holbertonschoolstudents/master
