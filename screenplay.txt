@@ -9,7 +9,7 @@ This sould have been done 3 days ago. A million times doing this is going to mak
 
 
 A FIRST DAY AT HOLBERTON SCHOOL
-kjaslkdjfkdj
+
 DAY 0
 
 HEAD
@@ -156,6 +156,8 @@ Salve.
 
 Yes it was an awesome day. Losing hair over Git pull requests. :(  
 
-Damian---
+
 
 >>>>>>> holbertonschoolstudents/master
+
+holbertonschool.com
