@@ -7,3 +7,10 @@ KAWASAKI NINJA ZX6R
 ===========================
 
 Josquin Gaillard
+
+
+function function()
+
+{
+	//features go here;
+}
