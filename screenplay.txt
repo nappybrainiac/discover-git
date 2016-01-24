@@ -1,10 +1,33 @@
+Wonder
+HELLO GOOD BYE STEVIE
+
+
+
 A FIRST DAY AT HOLBERTON SCHOOL
+Steven Garcia Was here!!
+and it was fun
+DAY B
+Bilal is here!!!!!
 
-Written by
 
-The Holberton School Students
+This sould have been done 3 days ago. A million times doing this is going to make my git game great!
 
 
+A FIRST DAY AT HOLBERTON SCHOOL
+<<<<<<< HEAD
+
+
+123
+
+
+123
+
+DAY 0
+
+Written by: The Holberton School Students - January 2016 batch
+
+Students:
+Damian Ali, Alexandro de Oliveira, Asaia Palacios, Augustin "Gus" Francis-Boeuf, Bennet Buchanan, Bilal Khan, Siphan Bou, Chandler Mayo, Daniel Alzugaray, Dora Korpar, Electra Chong, Gloria Bwandungi Mugarur, Ian Wagener, Jacob Ekanem, John Serrano, John Spence, Joe Greene, Josh Parkin, Josquin "Jo" Gaillard, Kris Bredemeier, Zee Adams, Marine Dejean, Mason Fish, Naomi Veroczi, William McCann, Praylin Dinamoni, Rick Harris, Rick Houser, Rona Chong, Sravanthi Sinha, Steven Garcia, Tasneem Farag.
 
 
 FADE IN:
@@ -12,39 +35,27 @@ FADE IN:
 
 INT. HOLBERTON SCHOOL ENTRANCE - DAY
 
-DAVID walks into the school, and there are already groups of people talking together. JANE and HARRY walk up to him.
+(DAVID walks into the school, and there is a daybreaker marathon competition. Surprise! Who knew. JANE and HARRY, fresh off the Hogwarts Express, with Dobby the free elf in tow,  walk up to him.)
+
+DAVID smells bacon grilled cheese and realizes he is hungry.
+
+JANE: (Exclaiming) Hi, you're David right?! I recognize you from your picture on the Slack channel!
+
+DAVID: Yes, indeed. Jane and Harry, right? Have you guys been here long?
 
 
-JANE
-
-Hi, you're David right? I recognize you from your picture on the Slack channel!
+HARRY:We just arrived. I think everybody did, really.
 
 
-DAVID
+DAVID:Perfect, let's go build an aquarium!
 
-Yes, indeed. Jane and Harry, right? Have you guys been here long.
-
-
-HARRY
-
-We just arrived. I think everybody did, really.
-
-
-DAVID
-
-Perfect, let's go meet the other people!
-
-
-
-
-INT. HOLBERTON SCHOOL OPEN SPACE - DAY
+INT. HOLBERTON SCHOOL, BRIGHT OPEN SPACE - DAY
 
 DAVID is now with AMY, they're working in pair to move forward on the Git project.
 
-
 AMY
 
-Have you ever used Git?
+Have you ever [DRAMATIC PAUSE] used Git?
 
 
 DAVID
@@ -62,11 +73,209 @@ DAVID
 Oh, we'll definitely be able to learn from each other then!
 
 
+
 AMY
 
-Sounds like it!
+Sounds like it! Do you speak Latin?
+
+AMY
+
+Tempus Fugit! I gotta go!
+
+(AMY exits...)
+
+DAVID:Do you like pizza?
+
+NAOMI:not really
 
 
-FADE OUT.
+NAOMI
+
+Coffee needs to be a little stronger!
+
+
+DANIEL
+
+Are we ever, EVER done?
+
+
+GUS
+
+I'm here to help!
+
+NAOMI
+
+Thanks for telling me to add some details GUS!
+
+
+
+Awesome
+Awesomeeeeeeeeeeee
+
+CHANDLER & JOSH TALKING ABOUT GIT
+
+CHANDLER MAYO
+
+Have you ever used Github before?
+
+JOSH PARKIN
+
+Not really, I am more used to Bitbucket.
+
+CHANDLER
+
+Same!
+
+Integer turpis turpis, consequat id auctor at, elementum ut neque. Donec eleifend, ante a lobortis aliquam, ligula sapien gravida nunc, et ullamcorper ante tellus eu eros. Ut imperdiet tempus ipsum, id tincidunt velit laoreet id. Donec facilisis justo eget aliquet malesuada. Nullam accumsan justo eget felis placerat, non aliquam neque lacinia. Proin venenatis turpis sed fringilla ultrices. Pellentesque fermentum ipsum vitae ante venenatis vehicula. Nulla tristique metus in posuere semper. Nam volutpat sed dui sed pharetra. Phasellus eleifend libero a sapien posuere suscipit. Etiam vel tristique purus. Morbi eget tincidunt leo. Mauris aliquet fringilla felis id semper.
+
+MARINE
+Who's Amy?
+
+FADE OUT, CURTAIN GOES DOWN.
+
+Finally, everyone shouted... "We had an awesome day.... Amazing days ahead..."
+
+<<<<<<< HEAD
+THE END(Almost...)
+=======
+(Almost)THE END
+>>>>>>> a5c872d28d50dbe5cadc257ab8424f8e974f3f5f
+
+Changed by William McCann right now.
+<<<<<<< HEAD
+=======
+
+Changed by tasneem farag :)
+>>>>>>> holbertonschoolstudents/master
+
+THIS IS A CHANGE BY BENNETT BUCHANAN, but now it is also a change by mason fish. "random text”. And now, this is yet another change by Bennett :). Thanks for the comment William, this is a great update to the play!
+ Some twist to the story: JAMES a young app developer... Hacking away at some codework in the middle of the night, Coffee on one side of the very unkept desk and a mobile device on the other.
+ He was quite a scare with his beard hanging low and uncommbed hair pointing in all directions.
+
+<<<<<<< HEAD
+Zee Narrating now...
+
+His secret lay hidden in lines of code masquerading as a playlist of 90's top hits. 3:12pm and still no call.
+"Maybe They changed their minds.", muttered James. Who's They you're probably wondering. They are everywhere and everything. They are me and you, your neighbor, your mother, your priest, your doctor...They are everywhere. Who can I tell? Who can protect me? Who will believe me?
+"It doesn't matter anyways. I'm marked; and now it's just a matter of time before they activate the line." James finished with a hint of despair barely noticeable, but heavily palpable.
+=======
+
+Edited Feedback of Day0:Day was awesome and we all are much excited for the upcoming days.
+
+(Adding a decent end...)
+
+
+
+ACT I
+
+SCENE I
+
+The morning light filters through the windows at Holberton School. The class is empty
+computers are all turned off. The computers all come on at once and a sinister message
+flickers on the screens that reads, PULL REQUEST DENIED.
+
+
+
+STEVEN, on the otherside of the door, is happily opening it, ready to start another
+gruelling day. As soon as he opens the door, all the screens turn off. He dances to music
+playing through headphones.
+
+
+
+JOSQUIN: Goodmorning Steven!
+
+Steven wheels around a little surprised.
+
+STEVEN: Goodmorning! Did you rest well? Ready for the day?
+
+JOSQUIN: Yeah, yeah. Always exciting stuff happening at Holberton.
+
+
+SCENE II
+
+Holberton School is busier and students are milling about, talking to
+each other and others are working quietly at their chosen terminals.
+
+A crack of lightening bursts through the room and all the computers
+turn off leaving the students bewildered.
+
+
+
+ZEE: What was that?
+
+SIPHAN: I'm not sure.
+
+
+
+The murmuring of students is suddenly interrupted by the message that
+had displayed on the computers before, PULL REQUEST DENIED.
+
+
+
+TASNEEM: Is this a founder's joke?
+
+JOE: Do you really think that Sylvain would take time out of his day to play a prank on us?
+
+
+
+There are sounds of agreement and disagreement throughout the group.
+While they stand around talking, the doors to the room close and we
+hear a locking sound.
+
+
+
+ALEX: What does this mean? Do we have to do the first project again?
+
+DORA:  I don't think so... can anyone check on their phones? Anyone with the github mobile app?
+
+ELECTRA points to one of the screens again. The message has
+been replaced with a laughing head. The sound is sinister and
+bounces around the walls unnaturally.
+
+ZEE: (Quietly to GLORIA) We gotta go.
+
+GLORIA: You're sure this is not a challenge of some sort?
+
+ZEE: How about we find out later?
+
+
+
+GLORIA and ZEE rush towards the door and the rest of the
+group sees and follows along. ZEE tries the doors, but
+they are locked.
+
+
+
+ZEE: (Trying to stay calm, but a frightened look is in her eyes) The doors are locked guys.
+
+
+
+There is even more murmuring and people jostle one
+another, trying to get to the door to muscle their way out.
+
+
+
+MASON: Who locked the doors? Who was the last one out?
+
+
+The laughing head on the computer suddenly stops. Each
+computer screen turns around and prints the name of one
+student on the screen then scrawls a message beneath
+the name. YOU. Someone screams. The lights go out.
+
+END OF ACT II
 
 THE END
+
+Salve. BOOM! CONFLICT.
+
+Yes it was an awesome day. Losing hair over Git pull requests. :(
+
+
+
+>>>>>>> holbertonschoolstudents/master
+
+
+ wow bilal
+ holbertonschool.com in San Francisco
+ wow
