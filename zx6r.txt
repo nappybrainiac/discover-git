@@ -12,5 +12,6 @@ Josquin Gaillard
 function function()
 
 {	
-	//features go here;
+	feature2;
+	feature3;
 }
