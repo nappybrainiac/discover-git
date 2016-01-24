@@ -14,5 +14,6 @@ function function()
 {	
 	feature3;
 	feature4
-	
+	feature1;
+	feature2;
 }
