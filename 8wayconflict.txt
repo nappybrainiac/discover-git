@@ -1,4 +1,6 @@
 function
 {
 	// features go here
+	Feature 1: Subliminal
+	Feature 6: This is Gloria's line
 }
