@@ -1,4 +1,8 @@
 
+Wonder
+HELLO GOOD BYE STEVIE
+
+
 !!!!!!
 Wonder
 HELLO GOOD BYE STEVIE
@@ -7,16 +11,33 @@ HELLO GOOD BYE STEVIE
 
 A FIRST DAY AT HOLBERTON SCHOOL
 Steven Garcia Was here!!
+and it was fun
+DAY B
+Bilal is here!!!!!
+
+A FIRST DAY AT HOLBERTON SCHOOL
+Steven Garcia Was here!!
 and it was fun 
 DAY B
 Bilal is here!!!!!
+
+This sould have been done 3 days ago. A million times doing this is going to make my git game great!
+
 
 
 This sould have been done 3 days ago. A million times doing this is going to make my git game great!
 
 
 A FIRST DAY AT HOLBERTON SCHOOL
-<<<<<<< HEAD
+
+
+
+
+123
+
+A FIRST DAY AT HOLBERTON SCHOOL
+
+
 
 
 123
@@ -46,12 +67,47 @@ JANE: (Exclaiming) Hi, you're David right?! I recognize you from your picture on
 DAVID: Yes, indeed. Jane and Harry, right? Have you guys been here long?
 
 
+123
+
+DAY 0
+
+Written by: The Holberton School Students - January 2016 batch
+
+Students:
+Damian Ali, Alexandro de Oliveira, Asaia Palacios, Augustin "Gus" Francis-Boeuf, Bennet Buchanan, Bilal Khan, Siphan Bou, Chandler Mayo, Daniel Alzugaray, Dora Korpar, Electra Chong, Gloria Bwandungi Mugarur, Ian Wagener, Jacob Ekanem, John Serrano, John Spence, Joe Greene, Josh Parkin, Josquin "Jo" Gaillard, Kris Bredemeier, Zee Adams, Marine Dejean, Mason Fish, Naomi Veroczi, William McCann, Praylin Dinamoni, Rick Harris, Rick Houser, Rona Chong, Sravanthi Sinha, Steven Garcia, Tasneem Farag.
+
+
+FADE IN:
+
+
+INT. HOLBERTON SCHOOL ENTRANCE - DAY
+
+(DAVID walks into the school, and there is a daybreaker marathon competition. Surprise! Who knew. JANE and HARRY, fresh off the Hogwarts Express, with Dobby the free elf in tow,  walk up to him.)
+
+DAVID smells bacon grilled cheese and realizes he is hungry.
+
+
+JANE: (Exclaiming) Hi, you're David right?! I recognize you from your picture on the Slack channel!
+
+
 HARRY:We just arrived. I think everybody did, really.
 
 
 DAVID:Perfect, let's go build an aquarium!
 
 INT. HOLBERTON SCHOOL, BRIGHT OPEN SPACE - DAY
+
+
+DAVID: Yes, indeed. Jane and Harry, right? Have you guys been here long?
+
+
+HARRY:We just arrived. I think everybody did, really.
+
+
+DAVID:Perfect, let's go build an aquarium!
+
+INT. HOLBERTON SCHOOL, BRIGHT OPEN SPACE - DAY
+
 
 DAVID is now with AMY, they're working in pair to move forward on the Git project.
 
@@ -76,11 +132,19 @@ Oh, we'll definitely be able to learn from each other then!
 
 
 
+
 AMY
 
 Sounds like it! Do you speak Latin?
 
 AMY
+
+
+
+Sounds like it! Do you speak Latin?
+
+AMY
+
 
 Tempus Fugit! I gotta go!
 
@@ -114,19 +178,33 @@ Thanks for telling me to add some details GUS!
 Awesome
 Awesomeeeeeeeeeeee
 
+
+CHANDLER & JOSH TALKING ABOUT GIT
+
+CHANDLER MAYO
+
 CHANDLER & JOSH TALKING ABOUT GIT 
 
 CHANDLER MAYO 
 
+
 Have you ever used Github before?
 
 JOSH PARKIN
+
+
+Not really, I am more used to Bitbucket.
+
+CHANDLER
+
+Same!
 
 Not really, I am more used to Bitbucket. 
 
 CHANDLER
 
 Same! 
+
 
 Integer turpis turpis, consequat id auctor at, elementum ut neque. Donec eleifend, ante a lobortis aliquam, ligula sapien gravida nunc, et ullamcorper ante tellus eu eros. Ut imperdiet tempus ipsum, id tincidunt velit laoreet id. Donec facilisis justo eget aliquet malesuada. Nullam accumsan justo eget felis placerat, non aliquam neque lacinia. Proin venenatis turpis sed fringilla ultrices. Pellentesque fermentum ipsum vitae ante venenatis vehicula. Nulla tristique metus in posuere semper. Nam volutpat sed dui sed pharetra. Phasellus eleifend libero a sapien posuere suscipit. Etiam vel tristique purus. Morbi eget tincidunt leo. Mauris aliquet fringilla felis id semper.
 
@@ -137,30 +215,39 @@ FADE OUT, CURTAIN GOES DOWN.
 
 Finally, everyone shouted... "We had an awesome day.... Amazing days ahead..."
 
-<<<<<<< HEAD
+
 THE END(Almost...)
-=======
+
 (Almost)THE END
->>>>>>> a5c872d28d50dbe5cadc257ab8424f8e974f3f5f
+
 
 Changed by William McCann right now.
-<<<<<<< HEAD
-=======
+
+
 
 Changed by tasneem farag :)
->>>>>>> holbertonschoolstudents/master
+
 
 THIS IS A CHANGE BY BENNETT BUCHANAN, but now it is also a change by mason fish. "random text”. And now, this is yet another change by Bennett :). Thanks for the comment William, this is a great update to the play!
+
+ Some twist to the story: JAMES a young app developer... Hacking away at some codework in the middle of the night, Coffee on one side of the very unkept desk and a mobile device on the other.
+ He was quite a scare with his beard hanging low and uncommbed hair pointing in all directions.
+
  Some twist to the story: JAMES a young app developer... Hacking away at some codework in the middle of the night, Coffee on one side of the very unkept desk and a mobile device on the other. 
 He was quite a scare with his beard hanging low and uncommbed hair pointing in all directions.
 
-<<<<<<< HEAD
+
+
 Zee Narrating now...
 
 His secret lay hidden in lines of code masquerading as a playlist of 90's top hits. 3:12pm and still no call.
 "Maybe They changed their minds.", muttered James. Who's They you're probably wondering. They are everywhere and everything. They are me and you, your neighbor, your mother, your priest, your doctor...They are everywhere. Who can I tell? Who can protect me? Who will believe me?
+
+"It doesn't matter anyways. I'm marked; and now it's just a matter of time before they activate the line." James finished with a hint of despair barely noticeable, but heavily palpable.
+
 "It doesn't matter anyways. I'm marked; and now it's just a matter of time before they activate the line." James finished with a hint of despair barely noticeable, but heavily palpable.  
-=======
+
+
 
 Edited Feedback of Day0:Day was awesome and we all are much excited for the upcoming days.
 
@@ -244,7 +331,11 @@ ZEE: How about we find out later?
 
 GLORIA and ZEE rush towards the door and the rest of the
 group sees and follows along. ZEE tries the doors, but
+
+they are locked.
+
 they are locked. 
+
 
 
 
@@ -269,15 +360,26 @@ END OF ACT II
 
 THE END
 
+
+Salve. BOOM! CONFLICT.
+
+Yes it was an awesome day. Losing hair over Git pull requests. :(
+
 Salve.
 
 Yes it was an awesome day. Losing hair over Git pull requests. :(  
 
 
 
->>>>>>> holbertonschoolstudents/master
+
+
 
 
  wow bilal
+
+ holbertonschool.com in San Francisco
+ wow
+
 holbertonschool.com in San Francisco
 wow
+
