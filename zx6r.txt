@@ -7,3 +7,13 @@ KAWASAKI NINJA ZX6R
 ===========================
 
 Josquin Gaillard
+
+
+function function()
+
+{	
+	feature1;
+	feature2;
+	feature3;
+	feature4; // daniel: i stand corrected, damian is a solid engineer
+}
