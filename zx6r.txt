@@ -1,0 +1,19 @@
+KAWASAKI NINJA ZX6R
+
+599cc I-4
+
+0-100k/h in 3.5s
+
+===========================
+
+Josquin Gaillard
+
+
+function function()
+
+{	
+	feature1;
+	feature2;
+	feature3;
+	feature4;
+}
